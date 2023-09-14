@@ -1,6 +1,5 @@
 // JS
-import  "./form.js"
-
+import "./form.js"
 
 // CSS
 import "./styles/base.css"
